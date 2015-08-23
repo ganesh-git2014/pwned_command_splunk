@@ -1,5 +1,4 @@
-# Copyright (C) 2005-2011 Splunk Inc.  All Rights Reserved.  Version 4.x
-# Author: Nimish Doshi
+# Author: Anthony Tellez
 import sys,splunk.Intersplunk
 import string
 import urllib2
